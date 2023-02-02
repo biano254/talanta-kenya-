@@ -1,0 +1,13 @@
+talanata kenya 
+**LOGIN DETAILS**
+
+Username: harry
+Password: pass
+
+OR SIMPLY SIGN UP TO CREATE NEW ACCOUNT!
+
+**Developed By biano**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "socialdb" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
